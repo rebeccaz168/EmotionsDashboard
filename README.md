@@ -1,4 +1,4 @@
-# kona
+# Work Place Sentiment Dashboard
 
 ## Description
 
